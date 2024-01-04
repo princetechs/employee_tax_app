@@ -7,7 +7,6 @@ This Ruby on Rails application manages employee data and calculates tax deductio
 
 - Ruby (version 3.1.0)
 - Rails (version 7.1.2)
-- PostgreSQL (version >= 9.3)
 
 ## Installation
 
